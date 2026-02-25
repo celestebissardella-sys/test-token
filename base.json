@@ -3,7 +3,7 @@
     "bnl": {
       "accent": {
         "10": {
-          "value": "#f6fcee",
+          "value": "#ffffff",
           "type": "color",
           "$extensions": {
             "com.figma.scopes": [
